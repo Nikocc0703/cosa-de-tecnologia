@@ -1,3 +1,42 @@
-.fondos {
-    background-color: aqua;
+.contenedor {
+
+    width: 100%;
+    height: 1200px;
+    background-color: rgb(10, 109, 76);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.encabezado {
+
+    width: 100%;
+    height: 100px;
+    background-color: rgb(212, 15, 15);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.sociales {
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(4, 0, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+
+}
+.tecnologia {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(15, 128, 15);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+}
+.ingles {
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(186, 22, 201);
+    font-size: 22px;
 }
