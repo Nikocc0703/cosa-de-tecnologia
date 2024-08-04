@@ -2,7 +2,7 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 30px;
     padding-top: 140px;
     text-align: justify;
     color: rgb(255, 255, 255);
@@ -13,4 +13,30 @@
 }
 body{
     background-image: url("lamejorcosaenlaexistencia.jpg");
+}
+.titulo{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img1{
+    height: 550px;
+    width: 1000px;
+    background-image: url(mapa\ mental.PNG);
+    background-repeat: no-repeat;
+    float: left;
+}
+.titulo2{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img2{
+    height: 550px;
+    width: 1000px;
+    background-image: url(circuitos.jpeg);
+    background-repeat: no-repeat;
+    float: left;
 }
