@@ -2,60 +2,17 @@
 
 .texto{
    
-    font-size: 30px;
+    font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(255, 255, 255);
+    color: rgb(20, 20, 20);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("lamejorcosaenlaexistencia.jpg");
-}
-.titulo{
-    font-size: 60px;
-    color: black;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-.img1{
-    height: 550px;
-    width: 1000px;
-    background-image: url(mapa\ mental.PNG);
+    background-image: url("fondo.jpg");
     background-repeat: no-repeat;
-    float: left;
-}
-.titulo2{
-    font-size: 40px;
-    color: black;
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-.img2{
-    height: 196px;
-    width: 320px;
-    background-image: url(circuitos.jpeg);
-    background-repeat: no-repeat;
-    float: left;
-}
-.pdfview{
-margin: auto;
-display: block;
-width: 850px;
-height: 100vh;
-}
-.imgexcel{
-    height: 150px;
-    width: 500px;
-    background-image: url(excel.png);
-    background-repeat: no-repeat;
-}
-.profesor{
-    height: 400px;
-    width: 500px;
-    background-image: url(profesor2puntocero.jfif);
-    background-repeat: no-repeat;
-    float: left;
+
 }
