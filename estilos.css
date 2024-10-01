@@ -46,3 +46,16 @@ display: block;
 width: 850px;
 height: 100vh;
 }
+.imgexcel{
+    height: 150px;
+    width: 500px;
+    background-image: url(excel.png);
+    background-repeat: no-repeat;
+}
+.profesor{
+    height: 400px;
+    width: 500px;
+    background-image: url(profesor2puntocero.jfif);
+    background-repeat: no-repeat;
+    float: left;
+}
