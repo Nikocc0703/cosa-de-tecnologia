@@ -12,7 +12,26 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("lamejorcosaenlaexistencia.jpg");
+    background-repeat: repeat;
+
+}
+.AIlogo {
+background-image: url(fuckyouyoudick.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+}
+.lacreatura {
+    background-image: url(lol.jpg);
     background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+.lol {
+background-image: url(soybi.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
 
 }
