@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 30px;
+    padding-top: 100px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
@@ -34,4 +34,24 @@ background-repeat: no-repeat;
 height: 500px;
 width: 500px;
 
+}
+.titulo {
+ font-size: 100px;
+ padding-top: 280px;
+ text-align: center;
+ color: white;
+
+}
+.muitotonto {
+background-image: url(muitotonto.jpg);
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+
+}
+.imgexcel {
+    background-image: url(profesorhdp.jpg);
+    background-repeat: no-repeat;
+    height: 267px;
+    width: 400px;
 }
