@@ -55,3 +55,58 @@ width: 500px;
     height: 267px;
     width: 400px;
 }
+.conceptual {
+background-image: url(conceptual.PNG);
+background-repeat: no-repeat;
+width: 866px;
+height: 485px;
+
+}
+.ejemplosuma {
+    background-image: url(ejemplosuma.jpg);
+    background-repeat: no-repeat;
+    width: 307px;
+    height: 159px;
+}
+.ejemplopromedio {
+    background-image: url(ejemplopromedio.png);
+    background-repeat: no-repeat;
+    width: 291px;
+    height: 307px;
+}
+.ejemplocontar {
+    background-image: url(ejemplocontar.png);
+    background-repeat: no-repeat;
+    width: 260px;
+    height: 194px;
+}
+.ejemploconcat {
+    background-image: url(ejemploconcat.png);
+    background-repeat: no-repeat;
+    width: 365px;
+    height: 138px;
+}
+.ejemplomayuscminusc {
+    background-image: url(ejemplomayuscminusc.png);
+    background-repeat: no-repeat;
+    width: 321px;
+    height: 121px;
+}
+.ejemploizquierda {
+    background-image: url(ejemploizquierda.png);
+    background-repeat: no-repeat;
+    width: 487px;
+    height: 133px;
+}
+.ejemploderecha {
+    background-image: url(ejemploderecha.png);
+    background-repeat: no-repeat;
+    width: 368px;
+    height: 110px;
+}
+.ejemploextrae {
+    background-image: url(ejemploextrae.png);
+    background-repeat: no-repeat;
+    width: 374px;
+    height: 108px;
+}
